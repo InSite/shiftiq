@@ -4,9 +4,9 @@ Shift iQ is a learning management system that specializes in the assessment of s
 
 Shift iQ is the technology behind many great online platforms and programs, including:
 
-* [Competency Management and Development System](https://www.keyeracmds.com)
-* [Cross-Trade Pathways](https://www.crosstrade.ca/)
-* [Facility Access to Skilled Trades](https://fastcanada.ca)
+- [SkillsCheck](https://www.skillscheck.ca/)
+- [Careers in Trade](https://careersintrades.ca/what-are-the-skilled-trades/discover-and-explore-the-trades/)
+- [Competency Management and Development System](https://www.keyeracmds.com)
 
 ![Shift iQ](https://www.shiftiq.com/images/logos/shift-iq.png)
 
